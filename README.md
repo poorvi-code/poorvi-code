@@ -29,15 +29,6 @@ Python LightGBM XGBoost SHAP Streamlit
 A blockchain-based donation tracking system on Ethereum — create campaigns, donate in ETH, and track funds transparently via tamper-proof smart contracts.
 Solidity Hardhat React Ethers.js MetaMask
 
-🛠️ Skills
-
-Languages: JavaScript, Python, Solidity, SQL
-Frontend: React, Vite, Tailwind CSS
-Backend: Node.js, Express, GraphQL, REST APIs
-Databases: MySQL, MongoDB
-Other: Blockchain/Web3 (Ethereum, Hardhat), Machine Learning (LightGBM, XGBoost, SHAP), Socket.io, JWT Auth
-
-📫 Reach Me
 
 
-https://www.linkedin.com/in/poorvi-rai-k-681b8830a?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
