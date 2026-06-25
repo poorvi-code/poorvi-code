@@ -38,5 +38,6 @@ Databases: MySQL, MongoDB
 Other: Blockchain/Web3 (Ethereum, Hardhat), Machine Learning (LightGBM, XGBoost, SHAP), Socket.io, JWT Auth
 
 📫 Reach Me
-poorviraik51@gmail.com,
+
+poorviraik51@gmail.com
 https://www.linkedin.com/in/poorvi-rai-k-681b8830a?utm_source=share_via&utm_content=profile&utm_medium=member_android
