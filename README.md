@@ -1,34 +1,4 @@
-Hi, I'm Poorvi 👋
-
-Full-stack developer and CSE student at Sahyadri College of Engineering and Management, Mangalore. I like building complete, end-to-end products — from databases and APIs to the UI people actually touch.
-
-🚀 Featured Projects
-
-🩺 CycleSense
-
-Full-stack menstrual health tracking platform — cycle records, symptom logs, analytics, downloadable PDF reports, educational resources, and an AI-style health assistant with rule-based fallback triage.
-React Vite Recharts Node.js Express MySQL JWT OpenAI SDK PDFKit
-
-💻 CodeCollab
-
-Real-time collaborative coding platform — private rooms, live multi-user code editing, in-room chat, and active participant tracking.
-React Vite Node.js MongoDB GraphQL REST Socket.io
-
-🤖 Autonomous Hiring Panel (group project)
-
-A multi-agent AI system that simulates a hiring committee — resume parsing, AI-generated interview questions, speech-to-text interview recording, and five specialized agents (resume, technical, behavioral, claim-checking, skeptic) producing a consensus hiring recommendation.
-React Vite Tailwind Node.js Express OpenAI Whisper OpenRouter/OpenAI
-
-🌍 PFAS Contamination Modelling (group project)
-
-Environmental ML platform that merges 369K+ real-world PFAS contamination measurements, trains LightGBM/XGBoost models to predict risk by location, explains predictions with SHAP values in plain English, and runs "what-if" scenario simulations — all through a Streamlit dashboard.
-Python LightGBM XGBoost SHAP Streamlit
-
-💸 Transparent Donation DApp
-
-A blockchain-based donation tracking system on Ethereum — create campaigns, donate in ETH, and track funds transparently via tamper-proof smart contracts.
-Solidity Hardhat React Ethers.js MetaMask
-
+https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=A66CFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Poorvi+%F0%9F%91%8B;Full-Stack+Developer;CSE+Student+%40+Sahyadri+CEM;I+build+full-stack+%2B+AI+%2B+blockchain+apps
 
 
 
