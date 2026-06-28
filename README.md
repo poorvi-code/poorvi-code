@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=A66CFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Poorvi+%F0%9F%91%8B;Full-Stack+Developer;CSE+Student+%40+Sahyadri+CEM;I+build+full-stack+%2B+AI+%2B+blockchain+apps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=A66CFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Poorvi+%F0%9F%91%8B;Full-Stack+Developer;I+build+full-stack+%2B+AI+%2B+Projects" alt="Typing SVG" />
 
-### 🚀 I turn ideas into full-stack products — frontend to database to deployment
+### 🚀 I turn ideas into full-stack projects — frontend to database to deployment
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/poorvi-rai-k-681b8830a)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:poorviraik51@gmail.com)
@@ -23,7 +23,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
@@ -40,6 +39,7 @@
 
 **🩺 [CycleSense](https://github.com/poorvi-code/CycleSense)**
 Full-stack menstrual health tracker — cycle logs, analytics, PDF reports, and an AI health assistant.
+
 `React` `Node.js` `MySQL` `OpenAI`
 
 </td>
@@ -47,6 +47,7 @@ Full-stack menstrual health tracker — cycle logs, analytics, PDF reports, and 
 
 **💻 [CodeCollab](https://github.com/poorvi-code/CodeCollab)**
 Real-time collaborative code editor with private rooms, live sync, and chat.
+
 `React` `MongoDB` `GraphQL` `Socket.io`
 
 </td>
@@ -54,15 +55,17 @@ Real-time collaborative code editor with private rooms, live sync, and chat.
 <tr>
 <td width="50%">
 
-**🤖 [Autonomous Hiring Panel](https://github.com/Deepthi055/-Autonomous-Hiring-Panel)** *(group)*
+**🤖 [Autonomous Hiring Panel](https://github.com/Deepthi055/-Autonomous-Hiring-Panel)** 
 Multi-agent AI system simulating a hiring committee — resume parsing, AI interviews, consensus scoring.
+
 `React` `Node.js` `OpenAI Whisper`
 
 </td>
 <td width="50%">
 
-**🌍 [PFAS Contamination Modelling](https://github.com/poorvi-code/geospatial-modelling-PFAS)** *(group)*
+**🌍 [PFAS Contamination Modelling](https://github.com/poorvi-code/geospatial-modelling-PFAS)** 
 ML platform predicting environmental contamination risk from 369K+ data points, explained via SHAP.
+
 `Python` `LightGBM` `XGBoost`
 
 </td>
@@ -72,6 +75,7 @@ ML platform predicting environmental contamination risk from 369K+ data points, 
 
 **💸 [Transparent Donation DApp](https://github.com/poorvi-code/transparent-donation-dapp)**
 Ethereum-based donation tracker with tamper-proof smart contracts.
+
 `Solidity` `Hardhat` `Ethers.js`
 
 </td>
